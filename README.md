@@ -91,11 +91,7 @@ An NLP-powered web application that analyzes multi-year exam papers to identify 
 ## 🧠 Problem Solving — LeetCode Stats
 
 <p align="left">
-<img src="https://leetcode-stats.tashif.codes/Ganeshan_400/stats/svg?theme=dark" alt="Ganeshan's LeetCode Stats" />
-</p>
-
-<p align="left">
-<img src="https://leetcard.jacoblin.cool/Ganeshan_400?theme=dark&font=Baloo%202&ext=heatmap" alt="Ganeshan's LeetCode Heatmap" />
+<img src="https://leetcard.jacoblin.cool/Ganeshan_400?theme=dark&font=Baloo%202&ext=heatmap" alt="Ganeshan's LeetCode Stats" />
 </p>
 
 Live stats fetched from [leetcode.com/u/Ganeshan_400](https://leetcode.com/u/Ganeshan_400/):
